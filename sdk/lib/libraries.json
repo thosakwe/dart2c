@@ -1,0 +1,18 @@
+{
+  "comment:0": "NOTE: THIS FILE IS GENERATED. DO NOT EDIT.",
+  "comment:1":
+    "Instead modify 'sdk/lib/libraries.yaml' and follow the instructions therein.",
+  "bare": {
+    "libraries": {
+      "_internal": {
+        "uri": "internal/internal.dart"
+      },
+      "bare": {
+        "uri": "bare/bare.dart"
+      },
+      "core": {
+        "uri": "core/core.dart"
+      }
+    }
+  }
+}

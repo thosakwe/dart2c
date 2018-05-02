@@ -1,0 +1,11 @@
+name: dart_os
+dependencies:
+  args: ^1.0.0
+  binary_sink:
+    git: https://github.com/thosakwe/binary_sink.git
+  c_builder: ^1.0.0
+  front_end:
+    path: /usr/local/opt/dart/libexec/lib/front_end
+dependency_overrides:
+  kernel:
+    path: /usr/local/opt/dart/libexec/lib/kernel
